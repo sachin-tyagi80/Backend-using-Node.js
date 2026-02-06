@@ -11,6 +11,7 @@ module.exports = {
   pi,
   sum,
   product,
+  
 };
 // let sum1=(a,b)=>{
 //     return a+b;
