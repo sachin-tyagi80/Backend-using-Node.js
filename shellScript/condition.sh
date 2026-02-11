@@ -7,3 +7,4 @@ if [ $n -gt 20 ]
         echo "number is lesser then 20"
 
     fi
+
