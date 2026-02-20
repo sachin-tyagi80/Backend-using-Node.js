@@ -6,7 +6,7 @@ console.log(url.href);
 console.log(url.port);
 console.log(url.pathname);
 console.log(url.searchParams.get('username'));
-console.log(url.searchParams.get('id'));
+console.log(url.searchParams.get('id')); 
 console.log(url.hash);
 
 
