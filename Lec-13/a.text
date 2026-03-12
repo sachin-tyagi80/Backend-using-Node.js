@@ -1,0 +1,17 @@
+To perform CRUD Operation
+CRUD - Create READ UPDATE DELETE
+HTTP  method use in CRUD
+Create - post method
+READ - get method
+UPDATE - put/patch/ method
+DELETE - Delete method
+
+
+
+
+
+
+ejs
+
+< % % > - when we are using js in ejs
+<%= %>  - when wec are manuplate data in ejs
