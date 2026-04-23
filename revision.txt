@@ -1,0 +1,18 @@
+imp topic
+REST API(Express,body-parser,method-override,ejs,bcrypt,mongoose etc) or REST using fileSystem
+middleware
+jwt(stateless authentication)
+passport,localpassport[username,password](statelfull authentication)
+cookie and session
+mongodb query like $set , $lt , $gte, $lte , etc
+
+
+
+
+
+
+
+
+
+
+
